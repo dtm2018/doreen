@@ -1039,8 +1039,8 @@ a {
 }
 .cid-sgKwzlKn9D {
   padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/hp-800x531.jpg");
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/hp-800x531.jpeg");
 }
 .cid-sgL0g4RZ3E {
   padding-top: 10rem;
@@ -1533,7 +1533,7 @@ a {
 }
 .cid-sgKV42lsVd {
   padding-top: 10rem;
-  padding-bottom: 6rem;
+  padding-bottom: 9rem;
   background-image: url("../../../assets/images/1.jpg");
 }
 .cid-sgKV43iL8R {
@@ -2021,6 +2021,9 @@ a {
   padding-top: 10rem;
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/serv-1024x682.jpeg");
+}
+.cid-sgKVlFsplm .mbr-section-title {
+  text-align: center;
 }
 .cid-sgL4Mrmpfz {
   padding-top: 10rem;
@@ -2539,7 +2542,7 @@ a {
   background-image: url("../../../assets/images/contact3-3-900x599.jpeg");
 }
 .cid-sgL8msn4wn {
-  padding-top: 6rem;
+  padding-top: 10rem;
   padding-bottom: 3rem;
   background-color: #ffffff;
 }
